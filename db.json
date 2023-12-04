@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "name": "Ranjith kumar",
+      "number": 9945554414,
+      "email": "ranjith@gamil.com",
+      "insta": "https://www.instagram.com/its__me_royal/",
+      "fb": "https://www.facebook.com/ranjithkumar966",
+      "twitter": "https://twitter.com/RANJITH95955136",
+      "linkedin": "https://www.linkedin.com/in/ranjithkumarreddy-k-977a72170/",
+      "google": "https://maps.app.goo.gl/htaPofy3bejSg3ND6",
+      "address": "https://maps.app.goo.gl/htaPofy3bejSg3ND6",
+      "id": 1
+    },
+    {
+      "name": "Vishnu",
+      "number": "9632587410",
+      "email": "vishnu@gmail.com",
+      "insta": "https://www.instagram.com/viharikavishnupriya/",
+      "fb": "https://www.instagram.com/viharikavishnupriya/",
+      "twitter": "https://www.instagram.com/viharikavishnupriya/",
+      "linkedin": "https://www.instagram.com/viharikavishnupriya/",
+      "google": "https://www.instagram.com/viharikavishnupriya/",
+      "address": "https://www.instagram.com/viharikavishnupriya/",
+      "id": 2
+    }
+  ]
+}
